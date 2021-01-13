@@ -1,0 +1,8 @@
+Initial state
+EasyMock for class Account
+EasyMock for class Account
+The balance of Arto's account is now: EasyMock for class Account
+The balance of Arto's other account is now: EasyMock for class Account
+End state
+EasyMock for class Account
+EasyMock for class Account
