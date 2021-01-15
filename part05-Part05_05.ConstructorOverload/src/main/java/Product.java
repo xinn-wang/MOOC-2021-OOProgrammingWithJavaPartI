@@ -27,6 +27,7 @@ public class Product {
         this.location = "shelf";
         this.weight = weight;
     }
+    
 
     
     public String getName() {
